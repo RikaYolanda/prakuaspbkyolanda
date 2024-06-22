@@ -1,0 +1,22 @@
+* {
+  font-family: serif !important;
+  text-decoration: none !important;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+:root {
+  --dark-red: #7B1010;
+  --beige: #C19A6B;
+  --light-beige: #E6CBA8;
+  --medium-red: #C04A3B;
+  --dark-red-2: #851717;
+  --background-color: #E6CBA8;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
